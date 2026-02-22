@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-dashboard",
+  "version": "1.0.0",
+  "description": "Investment Portfolio Dashboard",
+  "scripts": {
+    "dev": "npx serve public",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
